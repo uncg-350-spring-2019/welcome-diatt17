@@ -1,1 +1,1 @@
-Let's get started with GitHub 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
